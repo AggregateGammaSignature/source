@@ -1,9 +1,4 @@
-/*
- * gammaAggregate_impl.h
- *
- *  Created on: Jun 8, 2018
- *      Author: suiguangye
- */
+
 
 #ifndef GAMMAAGGREGATE_IMPL_H_
 #define GAMMAAGGREGATE_IMPL_H_
